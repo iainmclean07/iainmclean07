@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iainmclean07
 - 👀 I’m interested in almost every part of Computing! Especially functional programming.
-- 🌱 I’m currently learning networking technologies and architectures, as well as dabbling in some machine learning.
+- 🌱 I’m currently learning about networking technologies and architectures, as well as dabbling in some machine learning.
 - 💞️ I’m looking to collaborate on fun projects such as innovative algorithms or game development.
 - 📫 How to reach me: email iain.william.mclean@gmail.com
 
