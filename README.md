@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @iainmclean07
-- 👀 I’m interested in almost every part of Computing! Especially functional programming.
-- 🌱 I’m currently learning about networking technologies and architectures, as well as dabbling in some machine learning.
-- 💞️ I’m looking to collaborate on fun projects such as innovative algorithms or game development.
-- 📫 How to reach me: email iain.william.mclean@gmail.com
+- 👀 I’m a PhD Student working for the Fusion project, at the University of Glasgow
+- 🌱 I’m currently learning about social interactions in VR spaces, seeking to develop our knowledge of digital proxemics.
+- 💞️ I’m looking to collaborate on exciting XR projects within a variety of domains, with the primary goal of enhancing the usability of XR devices for human to human interactions.
+- 📫 How to reach me: email iain.william.mclean@gmail.com or 2308499M@student.gla.ac.uk
 
 <!---
 iainmclean07/iainmclean07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
